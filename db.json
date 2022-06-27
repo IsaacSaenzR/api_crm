@@ -1,0 +1,28 @@
+{
+  "clientes": [
+    {
+      "nombre": "Juan Actualizado",
+      "empresa": "Los quesos ak",
+      "email": "cosa@cosa.com",
+      "telefono": "5365218372",
+      "notas": "Cliente premium",
+      "id": 1
+    },
+    {
+      "nombre": "Cristian",
+      "empresa": "La empresa",
+      "email": "correo@correo.com",
+      "telefono": "32784893274",
+      "notas": "",
+      "id": 4
+    },
+    {
+      "nombre": "lala Editado",
+      "empresa": "Camarones a la diabla",
+      "email": "email@email.com",
+      "telefono": "5326747832564",
+      "notas": "Nuevo clientazo",
+      "id": 5
+    }
+  ]
+}
